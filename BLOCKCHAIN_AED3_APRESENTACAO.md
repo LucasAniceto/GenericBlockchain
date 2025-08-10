@@ -2,8 +2,8 @@
 ## Trabalho de Algoritmos e Estrutura de Dados 3
 
 ### Professor: Ulisses
-### Aluno: [Seu Nome]
-### Data: [Data da Apresentação]
+### Aluno: Lucas e caio
+### Data:
 
 ---
 
@@ -378,5 +378,6 @@ curl -X POST -H "Content-Type: application/json" \
 ---
 
 *Este documento serve como base para apresentação sobre blockchain e criptomoedas, demonstrando a aplicação prática de conceitos de Algoritmos e Estrutura de Dados 3 na construção da UliCoin.*
+
 
 **Desenvolvido para a disciplina AED3 - Professor Ulisses**
