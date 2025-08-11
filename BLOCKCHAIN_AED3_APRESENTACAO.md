@@ -1,10 +1,6 @@
 # UliCoin: Blockchain e Criptomoedas
 ## Trabalho de Algoritmos e Estrutura de Dados 3
 
-### Professor: Ulisses
-### Aluno: Lucas e caio
-### Data:
-
 ---
 
 ## 📚 Sumário
@@ -21,7 +17,7 @@
 
 ---
 
-## 🔗 Introdução ao Blockchain
+## Introdução ao Blockchain
 
 ### O que é Blockchain?
 Uma **blockchain** é uma estrutura de dados distribuída que mantém uma lista crescente de registros (blocos) conectados e protegidos usando criptografia. Cada bloco contém:
@@ -39,7 +35,7 @@ Uma **blockchain** é uma estrutura de dados distribuída que mantém uma lista 
 
 ---
 
-## 🏗️ Estruturas de Dados Utilizadas
+## Estruturas de Dados Utilizadas
 
 ### 1. Lista Ligada (Blockchain Chain)
 ```python
@@ -79,7 +75,7 @@ self.transactions = []  # Transações pendentes
 
 ---
 
-## ⚙️ Algoritmos Implementados
+## Algoritmos Implementados
 
 ### 1. Algoritmo de Hash (SHA-256)
 ```python
@@ -130,7 +126,7 @@ def replace_chain(self):
 
 ---
 
-## 📊 Análise de Complexidade
+## Análise de Complexidade
 
 ### Operações Principais
 
@@ -149,7 +145,7 @@ def replace_chain(self):
 
 ---
 
-## 🪙 Arquitetura da UliCoin
+## Arquitetura da UliCoin
 
 ### Componentes do Sistema
 
@@ -175,7 +171,7 @@ def replace_chain(self):
 
 ---
 
-## 🔧 Funcionalidades Implementadas
+## Funcionalidades Implementadas
 
 ### 1. Mineração de Blocos
 **Endpoint**: `GET /mine_block`
@@ -223,7 +219,7 @@ def replace_chain(self):
 
 ---
 
-## 🔐 Segurança e Consenso
+## Segurança e Consenso
 
 ### Mecanismos de Segurança
 
@@ -259,7 +255,7 @@ def replace_chain(self):
 
 ---
 
-## 💻 Demonstração Prática
+## Demonstração Prática
 
 ### Cenário 1: Mineração de Bloco
 ```bash
@@ -303,7 +299,7 @@ curl -X POST -H "Content-Type: application/json" \
 
 ---
 
-## 🎓 Relevância para AED3
+## Relevância para AED3
 
 ### Estruturas de Dados Aplicadas
 - **Listas Ligadas**: Cadeia de blocos sequencial
@@ -324,7 +320,7 @@ curl -X POST -H "Content-Type: application/json" \
 
 ---
 
-## 🚀 Aplicações e Extensões
+## Aplicações e Extensões
 
 ### Casos de Uso Reais
 - **Criptomoedas**: Bitcoin, Ethereum
@@ -342,7 +338,7 @@ curl -X POST -H "Content-Type: application/json" \
 
 ---
 
-## 📈 Conclusões
+## Conclusões
 
 ### Aprendizados Principais
 1. **Blockchain combina múltiplas estruturas de dados** de forma inovadora
@@ -362,22 +358,12 @@ curl -X POST -H "Content-Type: application/json" \
 
 ---
 
-## 📚 Referências e Estudos Futuros
+## Referências 
 
 ### Bibliografia Técnica
 - Nakamoto, S. (2008). Bitcoin: A Peer-to-Peer Electronic Cash System
 - Cormen et al. Introduction to Algorithms (análise de complexidade)
 - Documentação Python: hashlib, Flask, requests
 
-### Próximos Passos
-- Implementação de Merkle Trees
-- Interface web interativa
-- Análise comparativa de algoritmos de consenso
-- Estudo de casos de uso em diferentes indústrias
 
 ---
-
-*Este documento serve como base para apresentação sobre blockchain e criptomoedas, demonstrando a aplicação prática de conceitos de Algoritmos e Estrutura de Dados 3 na construção da UliCoin.*
-
-
-**Desenvolvido para a disciplina AED3 - Professor Ulisses**
